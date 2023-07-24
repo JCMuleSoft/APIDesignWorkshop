@@ -1,0 +1,48 @@
+**Examples of Use**
+
+A consumer customer applies for and gets a loan to purchase new furniture.
+
+**Key Features**
+
+- Set-up a consumer loan facility
+- Handle deposits and withdrawals
+- Provide statements and assessment reports on the loan
+- Support loan restructuring
+
+**Role Definition**
+
+The consumer loan product may include different properties/features depending on a bank’s preferences and policies. The loan is targeted at consumer customer and may be associated with a type of product and may or may not be secured by collateral.
+
+**Related Business Scenarios**
+
+[HANDLE REQUEST FOR CONSUMER LOAN COMPLETE ORIGINATION](https://bian.org/servicelandscape-10-0-0/views/view_50052.html)
+
+DISBURSE UNCOLLATERALISED CONSUMER LOAN
+
+EXT HANDLE REQUEST FOR RENEWAL OF UNCOLLATERALISED CONSUMER LOAN
+
+HANDLE REQUEST FOR POWER OF ATTORNEY
+
+EXT DISBURSE RENEWED UNCOLLATERALISED CONSUMER LOAN
+
+PERFORM CLOSING OF UNCOLLATERALISED CONSUMER LOAN
+
+CREATE AND SEND LOAN INSTALLMENT INVOICE
+
+EXT PROCESS CLOSING OF UNCOLLATERALISED CONSUMER LOAN
+
+ PERFORM UNDERWRITING FOR UNCOLLATERALISED CONSUMER LOAN
+
+PROCESS CONSUMER LOAN DELINQUENCY FIRST STAGE
+
+HANDLE REQUEST FOR CONSUMER LOAN FINANCIAL ANALYSIS REPORTS
+
+HANDLE REQUEST FOR UNCOLLATERALISED CONSUMER LOAN
+
+HANDLE REQUEST FOR WITHDRAWAL FROM CONSUMER LOAN
+
+PERFORM UNDERWRITING FOR RENEWAL OF UNCOLLATERALISED CONSUMER LOAN
+
+Core Business Object
+
+LOAN AGREEMENT
