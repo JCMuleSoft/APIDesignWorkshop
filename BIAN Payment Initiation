@@ -1,12 +1,9 @@
 **Key Features**
 
-Capture payment instruction details
-
-Verify/validate payment transaction (check funds available)
-
-Initiation payment order processing
-
-Retain, apply and update repeating remittances
+ - Capture payment instruction details
+ - Verify/validate payment transaction (check funds available)
+ - Initiation payment order processing
+ - Retain, apply and update repeating remittances
 
 **Examples of Use**
 
