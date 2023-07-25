@@ -1,0 +1,45 @@
+**Key Features**
+
+Capture payment instruction details
+
+Verify/validate payment transaction (check funds available)
+
+Initiation payment order processing
+
+Retain, apply and update repeating remittances
+
+**Examples of Use**
+
+An established customer transfers an amount from their current account to an overseas account for a family member. As this is a recurring transaction, the details are maintained and updated as necessary
+
+**Role Definition**
+
+This service domain supports payment services for consumer and business customers. Payments are made to other accounts within the bank, other banks and possibly internationally using whatever payments mechanism is suited to the transaction (See Payments Order/Execution). The service domain can support single transactions, or manage repeating/scheduled payments if requested
+
+**Related Business Scenarios**
+
+[HANDLE REQUEST FOR OUTGOING FCY CREDIT TRANSFER VIA SWIFT](https://bian.org/servicelandscape-10-0-0/views/view_50025.html)
+
+[PROCESS OUTGOING DIRECT DEBIT INSTRUCTION AT CREDITOR BANK](https://bian.org/servicelandscape-10-0-0/views/view_50046.html)
+
+[HANDLE CUSTOMER REQUEST FOR PAYMENT ORDER DURING ACTIVE MOBILE ACCESS SESSION](https://bian.org/servicelandscape-10-0-0/views/view_50606.html)
+
+[HANDLE REQUEST FOR INTERNAL CREDIT TRANSFER FROM SAVINGS ACCOUNT](https://bian.org/servicelandscape-10-0-0/views/view_50429.html)
+
+[HANDLE REQUEST FOR OUTGOING CREDIT TRANSFER](https://bian.org/servicelandscape-10-0-0/views/view_50711.html)
+
+[PROCESS INTERNAL DIRECT DEBIT INSTRUCTION](https://bian.org/servicelandscape-10-0-0/views/view_50783.html)
+
+[HANDLE REQUEST FOR INTERNAL CREDIT TRANSFER BETWEEN CORPORATE CURRENT ACCOUNTS](https://bian.org/servicelandscape-10-0-0/views/view_50492.html)
+
+[HANDLE REQUEST FOR INTERNAL CREDIT TRANSFER REQUIRING SECOND LINE AUTHORISATION](https://bian.org/servicelandscape-10-0-0/views/view_49992.html)
+
+[HANDLE REQUEST TO ESTABLISH CREDIT TRANSFER STANDING ORDER ON RETAIL CURRENT ACCOUNT](https://bian.org/servicelandscape-10-0-0/views/view_50654.html)
+
+[HANDLE REQUEST FOR PAYMENT AT CREDITOR BANK FOR EXTERNAL ACCOUNT](https://bian.org/servicelandscape-10-0-0/views/view_50121.html)
+
+[HANDLE REQUEST FOR REFUND OF INTERNAL DIRECT DEBIT](https://bian.org/servicelandscape-10-0-0/views/view_50357.html)
+
+[HANDLE REQUEST FOR REFUND OF INCOMING DIRECT DEBIT AT DEBTOR BANK](https://bian.org/servicelandscape-10-0-0/views/view_50270.html)
+
+[EXT HANDLE REQUEST FOR ACCOUNT STATEMENT AND OUTGOING CREDIT TRANSFER](https://bian.org/servicelandscape-10-0-0/views/view_50657.html)
